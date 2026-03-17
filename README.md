@@ -2,12 +2,12 @@
 
 A personal content library for social media — fast, private, and organized.
 
-[![Watch Demo](demo.gif)](https://your-youtube-link)
+[![Watch Demo](https://github.com/user-attachments/assets/3a012f35-9586-4a04-b9b3-4956b352df0c)
 
 ---
 
 ## 🚀 Demo
-👉 [https://your-youtube-link](https://youtu.be/9_5sFv4wDoo)
+👉 [https://ClipVault Demo](https://youtu.be/Rc6cOYz41f4)
 
 ---
 
