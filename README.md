@@ -35,7 +35,7 @@ It turns chaotic saved content into a **fast, searchable, structured workspace**
 
 ## ⚡ Key Features
 
-- **Share → Auto Save**  
+- **Share (In Development) → Auto Save**  
   Save any reel or post in 1–2 taps directly from apps  
 
 - **Bulk Import**  
